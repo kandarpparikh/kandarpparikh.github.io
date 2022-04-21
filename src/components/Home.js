@@ -18,7 +18,7 @@ const Home = () => {
           <Col className="my-auto">
             <div>
               <h5 className="color-custom-grey font-weight-bold mb-0">Hey !</h5>
-              <h1 className="color-name-blue text-boldest">I'm Bipin</h1>
+              <h1 className="color-name-blue text-boldest">I'm Kandarp</h1>
               <span className="color-custom-grey h4">
                 <Typist className="TypistExample-message" cursor={{ show: false }}>
                   <span>I'm a </span><span className="font-weight-bold">
